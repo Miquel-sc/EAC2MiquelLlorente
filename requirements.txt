@@ -1,2 +1,2 @@
 django==5.2
-selenium==5.4.0
+selenium==4.37.0
