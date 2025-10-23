@@ -31,5 +31,4 @@ jobs:
 
       - name: Run Django tests (headless)
         run: |
-          opts.add_argument("--headless")
           python manage.py test --noinput
